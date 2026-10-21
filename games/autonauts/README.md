@@ -58,10 +58,12 @@ The mod lives in its own repo; this is the design and the hard parts.
 
 ## How to play
 
-1. Install [BepInEx 5.4.23.5 win x64](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5) in the game folder.
-2. Put `AutonautsCoop.dll` in `BepInEx\plugins` (see the mod repo).
-3. Host: load a world, press F8, then Host this world, and invite Steam friends.
-4. Joiners: accept the invite, or from the main menu press F8 and join by IP.
+1. Download the latest zip from the mod's [Releases page](https://github.com/Shocklinks/autonauts-coop/releases) and extract it
+   into the Autonauts game folder (it includes BepInEx 5.4.23.5). Or install
+   [BepInEx 5.4.23.5 win x64](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5) yourself and put
+   `AutonautsCoop.dll` in `BepInEx\plugins`.
+2. Host: load a world, press F8, then Host this world, and invite Steam friends.
+3. Joiners: accept the invite, or from the main menu press F8 and join by IP.
 
 Every player needs their own copy of the game and the same mod version.
 
